@@ -1,0 +1,92 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context=".ui.MainActivity">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_centerHorizontal="true"
+        android:gravity="center"
+        android:text="Welcome"
+        android:textSize="20sp" />
+
+    <EditText
+        android:id="@+id/room_name"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:hint="Input name of the Live?"
+        android:inputType="text"
+        android:layout_marginBottom="11dp"
+        android:layout_above="@+id/button_join"
+        android:layout_centerHorizontal="true" />
+
+    <TextView
+        android:id="@+id/text_product_info"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/product_information"
+        android:textColor="@android:color/black"
+        android:textSize="20dp"
+        android:gravity="center"
+        android:textStyle="bold"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="52dp" />
+
+    <TextView
+        android:id="@+id/text_connection_status"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:text="Status: No Product Connected"
+        android:textColor="@android:color/black"
+        android:textSize="20dp"
+        android:textStyle="bold"
+        android:layout_marginBottom="13dp"
+        android:layout_above="@+id/room_name"
+        android:layout_centerHorizontal="true" />
+
+    <TextView
+        android:id="@+id/text_model_available"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:gravity="center"
+        android:layout_marginTop="30dp"
+        android:text="@string/model_not_available"
+        android:layout_below="@+id/text_product_info"
+        android:textSize="15dp"/>
+
+    <Button
+        android:id="@+id/btn_open"
+        android:layout_width="150dp"
+        android:layout_height="55dp"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="350dp"
+        android:text="Open"
+        android:textColor="@color/colorWhite"
+        android:textSize="20dp" />
+
+
+    <Button
+        android:id="@+id/button_join"
+        android:layout_width="150dp"
+        android:layout_height="55dp"
+        android:layout_gravity="center_horizontal"
+        android:onClick="onClickJoin"
+        android:enabled="true"
+        android:text="Join Room"
+        android:layout_alignBottom="@+id/btn_open"
+        android:layout_centerHorizontal="true"
+        android:textColor="@color/colorWhite"
+        android:textSize="20dp"
+        android:layout_marginBottom="67dp" />
+
+</RelativeLayout>

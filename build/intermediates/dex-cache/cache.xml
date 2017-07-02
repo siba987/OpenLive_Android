@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Siba\Downloads\Agora_Native_SDK_for_Android_v1_10_1_FULL\Agora_Native_SDK_for_Android_FULL\samples\OpenLive_Android\dJISDKLIB\build\intermediates\bundles\default\libs\dji_eventbus.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="91a5399115cedf41ebd53be7c96e424ac3aed1a8">
+        <dex dex="C:\Users\Siba\Downloads\Agora_Native_SDK_for_Android_v1_10_1_FULL\Agora_Native_SDK_for_Android_FULL\samples\OpenLive_Android\app\build\intermediates\transforms\dex\debug\folders\1000\8\dji_eventbus_19e5a07cedae49ef2d41dbaac0108f0bba7eb9d0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Siba\Downloads\Agora_Native_SDK_for_Android_v1_10_1_FULL\Agora_Native_SDK_for_Android_FULL\samples\OpenLive_Android\dJISDKLIB\build\intermediates\bundles\default\libs\rxjava-1.1.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d4f11e8e7dd89f5f87e5d81000582eabb071da91">
+        <dex dex="C:\Users\Siba\Downloads\Agora_Native_SDK_for_Android_v1_10_1_FULL\Agora_Native_SDK_for_Android_FULL\samples\OpenLive_Android\app\build\intermediates\transforms\dex\debug\folders\1000\8\rxjava-1.1.2_519270ca8c079bebc5215b4e00c916b0b882e9cd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Siba\Downloads\Agora_Native_SDK_for_Android_v1_10_1_FULL\Agora_Native_SDK_for_Android_FULL\samples\OpenLive_Android\dJISDKLIB\build\intermediates\bundles\default\libs\dji_gson.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="729a9cf81838d286b6098dc9c33d264d5db48a26">
+        <dex dex="C:\Users\Siba\Downloads\Agora_Native_SDK_for_Android_v1_10_1_FULL\Agora_Native_SDK_for_Android_FULL\samples\OpenLive_Android\app\build\intermediates\transforms\dex\debug\folders\1000\8\dji_gson_95f67a573b883faa9da490ab3a3f3bb9cec390a3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Siba\Downloads\Agora_Native_SDK_for_Android_v1_10_1_FULL\Agora_Native_SDK_for_Android_FULL\samples\OpenLive_Android\dJISDKLIB\build\intermediates\bundles\default\libs\sqlcipher.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="372b3cc280b8ef1d8079ef984aa838b78bfe9aa0">
+        <dex dex="C:\Users\Siba\Downloads\Agora_Native_SDK_for_Android_v1_10_1_FULL\Agora_Native_SDK_for_Android_FULL\samples\OpenLive_Android\app\build\intermediates\transforms\dex\debug\folders\1000\8\sqlcipher_5f2bb85daa25a99de7d499429cce6143389f4a2f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Siba\Downloads\Agora_Native_SDK_for_Android_v1_10_1_FULL\Agora_Native_SDK_for_Android_FULL\samples\OpenLive_Android\dJISDKLIB\build\intermediates\bundles\default\libs\rxjava-computation-expressions-0.21.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1998e4f447fbf0194f39a12f3010d1f4f598667f">
+        <dex dex="C:\Users\Siba\Downloads\Agora_Native_SDK_for_Android_v1_10_1_FULL\Agora_Native_SDK_for_Android_FULL\samples\OpenLive_Android\app\build\intermediates\transforms\dex\debug\folders\1000\8\rxjava-computation-expressions-0.21.1_c90a0e5bf149b3e220aa46281e38e43ec3600657\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Siba\Downloads\Agora_Native_SDK_for_Android_v1_10_1_FULL\Agora_Native_SDK_for_Android_FULL\libs\agora-rtc-sdk.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7a6a70ff32dc8801dd90cb62870af3190c63c139">
+        <dex dex="C:\Users\Siba\Downloads\Agora_Native_SDK_for_Android_v1_10_1_FULL\Agora_Native_SDK_for_Android_FULL\samples\OpenLive_Android\app\build\intermediates\transforms\dex\debug\folders\1000\2\agora-rtc-sdk_32c3a65b614d58abe888bd2d0f0659247cfef6ef\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Siba\Downloads\Agora_Native_SDK_for_Android_v1_10_1_FULL\Agora_Native_SDK_for_Android_FULL\samples\OpenLive_Android\dJISDKLIB\build\intermediates\bundles\default\libs\retrofit-2.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b55150f9b025eebdddb6426bb4e85e673af338a3">
+        <dex dex="C:\Users\Siba\Downloads\Agora_Native_SDK_for_Android_v1_10_1_FULL\Agora_Native_SDK_for_Android_FULL\samples\OpenLive_Android\app\build\intermediates\transforms\dex\debug\folders\1000\8\retrofit-2.0.1_f43a74e5c65ddf213dfbb7b9a14449fa483a3d1e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Siba\Downloads\Agora_Native_SDK_for_Android_v1_10_1_FULL\Agora_Native_SDK_for_Android_FULL\samples\OpenLive_Android\dJISDKLIB\build\intermediates\bundles\default\libs\rxandroid-1.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="92b4c46bf73b1caff27f0ad2b73fcd5730fa37de">
+        <dex dex="C:\Users\Siba\Downloads\Agora_Native_SDK_for_Android_v1_10_1_FULL\Agora_Native_SDK_for_Android_FULL\samples\OpenLive_Android\app\build\intermediates\transforms\dex\debug\folders\1000\8\rxandroid-1.1.0_9995f939037d02972bdf03714de592d2d1ac0b93\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Siba\Downloads\Agora_Native_SDK_for_Android_v1_10_1_FULL\Agora_Native_SDK_for_Android_FULL\samples\OpenLive_Android\dJISDKLIB\build\intermediates\bundles\default\libs\okio-1.7.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="58a92147e3365aa0039fc81a31b87f4957e6a555">
+        <dex dex="C:\Users\Siba\Downloads\Agora_Native_SDK_for_Android_v1_10_1_FULL\Agora_Native_SDK_for_Android_FULL\samples\OpenLive_Android\app\build\intermediates\transforms\dex\debug\folders\1000\8\okio-1.7.0_0aa371da8b5df42ea58cfd478b4afee3c1633cdc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Siba\Downloads\Agora_Native_SDK_for_Android_v1_10_1_FULL\Agora_Native_SDK_for_Android_FULL\samples\OpenLive_Android\dJISDKLIB\build\intermediates\bundles\default\libs\dji-sdk.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="13145cded999ba4cfb59c0ac088752a2c4062075">
+        <dex dex="C:\Users\Siba\Downloads\Agora_Native_SDK_for_Android_v1_10_1_FULL\Agora_Native_SDK_for_Android_FULL\samples\OpenLive_Android\app\build\intermediates\transforms\dex\debug\folders\1000\8\dji-sdk_4d261fa0fbdd7c24ea6b9a9a9cc276898f1967e4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Siba\Downloads\Agora_Native_SDK_for_Android_v1_10_1_FULL\Agora_Native_SDK_for_Android_FULL\samples\OpenLive_Android\dJISDKLIB\build\intermediates\bundles\default\libs\converter-gson-2.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="56caaeea09d3e406f6160972ff5d3e6c0e6f139b">
+        <dex dex="C:\Users\Siba\Downloads\Agora_Native_SDK_for_Android_v1_10_1_FULL\Agora_Native_SDK_for_Android_FULL\samples\OpenLive_Android\app\build\intermediates\transforms\dex\debug\folders\1000\8\converter-gson-2.0.1_195a02288f22cc54fd4fb08000558b63cdb9465b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Siba\Downloads\Agora_Native_SDK_for_Android_v1_10_1_FULL\Agora_Native_SDK_for_Android_FULL\samples\OpenLive_Android\dJISDKLIB\build\intermediates\bundles\default\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f669566d97545b914257e8dac4c87f287e0d5802">
+        <dex dex="C:\Users\Siba\Downloads\Agora_Native_SDK_for_Android_v1_10_1_FULL\Agora_Native_SDK_for_Android_FULL\samples\OpenLive_Android\app\build\intermediates\transforms\dex\debug\folders\1000\4\classes_56cd89032a87fdaac9d301e7578047c5805488d7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Siba\Downloads\Agora_Native_SDK_for_Android_v1_10_1_FULL\Agora_Native_SDK_for_Android_FULL\samples\OpenLive_Android\dJISDKLIB\build\intermediates\bundles\default\libs\okhttp-3.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="03773badcb9e99ad699db657fa0e20cafbf774ef">
+        <dex dex="C:\Users\Siba\Downloads\Agora_Native_SDK_for_Android_v1_10_1_FULL\Agora_Native_SDK_for_Android_FULL\samples\OpenLive_Android\app\build\intermediates\transforms\dex\debug\folders\1000\8\okhttp-3.2.0_4cbc8a46c4ea38697e1b07d6d8bf3ff976a45e92\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Siba\Downloads\Agora_Native_SDK_for_Android_v1_10_1_FULL\Agora_Native_SDK_for_Android_FULL\samples\OpenLive_Android\dJISDKLIB\build\intermediates\bundles\default\libs\sqlbrite-0.6.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="80411084d9962ab5b48b274bb4b49e063095535a">
+        <dex dex="C:\Users\Siba\Downloads\Agora_Native_SDK_for_Android_v1_10_1_FULL\Agora_Native_SDK_for_Android_FULL\samples\OpenLive_Android\app\build\intermediates\transforms\dex\debug\folders\1000\8\sqlbrite-0.6.2_e74254c5eb17d0cec930058c5c99b4e65f975cde\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Siba\Downloads\Agora_Native_SDK_for_Android_v1_10_1_FULL\Agora_Native_SDK_for_Android_FULL\samples\OpenLive_Android\dJISDKLIB\build\intermediates\bundles\default\libs\Java-WebSocket-1.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bc54e68ea5a1410ba9889536ab3100e36d2014aa">
+        <dex dex="C:\Users\Siba\Downloads\Agora_Native_SDK_for_Android_v1_10_1_FULL\Agora_Native_SDK_for_Android_FULL\samples\OpenLive_Android\app\build\intermediates\transforms\dex\debug\folders\1000\8\Java-WebSocket-1.3.0_5405319ec1f7d3b345ea4045d27b1c150dbd2f3f\classes.dex" />
+    </item>
+
+</items>
